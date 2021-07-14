@@ -1,5 +1,5 @@
 # PteroPlus Desktop App
-Skylake is a next-generation control plane for Pterodactyl Panel.
+PteroPlus Desktop is a next-generation control plane for Pterodactyl Panel.
 Built on the ElectronJS framework, PteroPlus Desktop is the best way to interact with PteroPlus Panel.
 
 # Quick Start
